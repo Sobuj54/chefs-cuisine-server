@@ -2,7 +2,7 @@
     {
       "id": "1",
       "name": "John Doe",
-      "picture": "https://example.com/chef1-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?size=626&ext=jpg",
       "yearsOfExperience": 10,
       "numRecipes": 50,
       "likes": 1000
@@ -10,7 +10,7 @@
     {
       "id": "2",
       "name": "Jane Smith",
-      "picture": "https://example.com/chef2-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg",
       "yearsOfExperience": 15,
       "numRecipes": 100,
       "likes": 2000
@@ -18,7 +18,7 @@
     {
       "id": "3",
       "name": "David Johnson",
-      "picture": "https://example.com/chef3-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg",
       "yearsOfExperience": 5,
       "numRecipes": 30,
       "likes": 500
@@ -26,7 +26,7 @@
     {
       "id": "4",
       "name": "Emily Brown",
-      "picture": "https://example.com/chef4-picture.jpg",
+      "picture": "https://img.freepik.com/premium-photo/half-length-portrait-african-american-female-chef-white_70216-4220.jpg?size=626&ext=jpg",
       "yearsOfExperience": 8,
       "numRecipes": 70,
       "likes": 1500
@@ -34,7 +34,7 @@
    {
       "id": "5",
       "name": "Michael Wilson",
-      "picture": "https://example.com/chef5-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg",
       "yearsOfExperience": 12,
       "numRecipes": 90,
       "likes": 1800
@@ -42,7 +42,7 @@
     {
       "id": "6",
       "name": "Sophia Lee",
-      "picture": "https://example.com/chef6-picture.jpg",
+      "picture": "https://img.freepik.com/premium-photo/young-afro-brazilian-woman-chef-cook-arms-crossed-smiling-confident-optimistic_579344-5005.jpg?size=626&ext=jpg",
       "yearsOfExperience": 6,
       "numRecipes": 40,
       "likes": 800
@@ -50,7 +50,7 @@
    {
       "id": "7",
       "name": "Daniel Taylor",
-      "picture": "https://example.com/chef7-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/young-smiling-afro-american-cook-chef-uniform-crosses-arms-isolated-orange-wall_141793-33424.jpg?size=626&ext=jpg",
       "yearsOfExperience": 9,
       "numRecipes": 60,
       "likes": 1200
@@ -58,7 +58,7 @@
     {
       "id": "8",
       "name": "Olivia Anderson",
-      "picture": "https://example.com/chef8-picture.jpg",
+      "picture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg",
       "yearsOfExperience": 7,
       "numRecipes": 35,
       "likes": 900
@@ -66,7 +66,7 @@
     {
       "id": "9",
       "name": "Alexander Martinez",
-      "picture": "https://example.com/chef9-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg",
       "yearsOfExperience": 11,
       "numRecipes": 80,
       "likes": 1600
@@ -74,7 +74,7 @@
      {
       "id": "10",
       "name": "Isabella Thompson",
-      "picture": "https://example.com/chef10-picture.jpg",
+      "picture": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cutting-onion_23-2149631681.jpg?size=626&ext=jpg",
       "yearsOfExperience": 4,
       "numRecipes": 20,
       "likes": 400
