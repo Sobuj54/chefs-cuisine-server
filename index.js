@@ -14,6 +14,16 @@ app.get("/chef", (req, res) => {
   res.send(chef);
 });
 
+app.get("/chef/:id", (req, res) => {
+  const id = req.params.id;
+  // this  received id even though it is number but we will get it as string
+  console.log(id);
+
+  const chefs = chef.find((c) => c.id == id) || {};
+  // we will find an specific chef searching by id
+  res.send(chefs);
+});
+
 app.listen(port, () => {
   console.log(`server is running at port ${port}`);
 });
