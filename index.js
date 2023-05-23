@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const chef = require("./data/chef.json");
+const recipes = require("./data/recipes.json");
 const app = express();
 const port = process.env.PORT || 5000;
 
@@ -22,6 +23,14 @@ app.get("/chef/:id", (req, res) => {
   const chefs = chef.find((c) => c.id == id) || {};
   // we will find an specific chef searching by id
   res.send(chefs);
+});
+
+app.get("/recipes/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+
+  const recipe = recipes.filter((r) => r.id == id) || {};
+  res.send(recipe);
 });
 
 app.listen(port, () => {
