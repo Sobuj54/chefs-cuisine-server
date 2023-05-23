@@ -25,7 +25,11 @@ app.get("/chef/:id", (req, res) => {
   res.send(chefs);
 });
 
-app.get("/recipes/:id", (req, res) => {
+app.get("/recipe", (req, res) => {
+  res.send(recipes);
+});
+
+app.get("/recipe/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
 
