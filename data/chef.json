@@ -5,7 +5,9 @@
       "picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?size=626&ext=jpg",
       "yearsOfExperience": 10,
       "numRecipes": 50,
-      "likes": 1000
+      "likes": 1000,
+      "bio": "John Doe is a seasoned chef with a passion for creating delicious and innovative dishes. With over 10 years of experience in the culinary world, he has honed his skills in various renowned restaurants and earned accolades for his culinary expertise."
+
     },
     {
       "id": "2",
@@ -13,7 +15,8 @@
       "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg",
       "yearsOfExperience": 15,
       "numRecipes": 100,
-      "likes": 2000
+      "likes": 2000,
+      "bio": "Jane Smith is a talented chef known for her creative flair and dedication to using locally sourced ingredients. With 15 years of experience, she has curated a diverse repertoire of recipes that showcase her passion for blending unique flavors and textures."
     },
     {
       "id": "3",
@@ -21,7 +24,9 @@
       "picture": "https://img.freepik.com/free-photo/chef-with-thumb-up-white-background_1368-2842.jpg?size=626&ext=jpg",
       "yearsOfExperience": 5,
       "numRecipes": 30,
-      "likes": 500
+      "likes": 500,
+      "bio": "David Johnson is a rising star in the culinary world, bringing a fresh perspective to classic dishes. Despite his relatively short 5 years of experience, he has quickly gained recognition for his culinary innovation and commitment to delivering memorable dining experiences."
+
     },
     {
       "id": "4",
@@ -29,7 +34,9 @@
       "picture": "https://img.freepik.com/premium-photo/half-length-portrait-african-american-female-chef-white_70216-4220.jpg?size=626&ext=jpg",
       "yearsOfExperience": 8,
       "numRecipes": 70,
-      "likes": 1500
+      "likes": 1500,
+      "bio": "Emily Brown is a versatile chef with a passion for both savory and sweet creations. With 8 years of experience, she has developed a keen understanding of flavor profiles and loves experimenting with unique ingredient combinations to create memorable culinary masterpieces."
+
     },
    {
       "id": "5",
@@ -37,7 +44,9 @@
       "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg",
       "yearsOfExperience": 12,
       "numRecipes": 90,
-      "likes": 1800
+      "likes": 1800,
+      "bio": "Michael Wilson is a seasoned chef specializing in international cuisine. With 12 years of experience working in renowned kitchens around the world, he has honed his skills in preparing diverse dishes from various culinary traditions, delighting diners with his global flavors."
+
     },
     {
       "id": "6",
@@ -45,7 +54,9 @@
       "picture": "https://img.freepik.com/premium-photo/young-afro-brazilian-woman-chef-cook-arms-crossed-smiling-confident-optimistic_579344-5005.jpg?size=626&ext=jpg",
       "yearsOfExperience": 6,
       "numRecipes": 40,
-      "likes": 800
+      "likes": 800,
+      "bio": "Sophia Lee is a passionate chef dedicated to creating healthy and nourishing meals. With 6 years of experience, she focuses on using fresh, organic ingredients to craft dishes that are not only delicious but also promote well-being and support a balanced lifestyle."
+
     },
    {
       "id": "7",
@@ -53,7 +64,9 @@
       "picture": "https://img.freepik.com/free-photo/young-smiling-afro-american-cook-chef-uniform-crosses-arms-isolated-orange-wall_141793-33424.jpg?size=626&ext=jpg",
       "yearsOfExperience": 9,
       "numRecipes": 60,
-      "likes": 1200
+      "likes": 1200,
+      "bio": "Daniel Taylor is a chef known for his attention to detail and commitment to culinary excellence. With 9 years of experience, he has developed a refined palate and an ability to elevate simple ingredients to new heights, creating culinary experiences that leave a lasting impression."
+
     },
     {
       "id": "8",
@@ -61,7 +74,9 @@
       "picture": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg",
       "yearsOfExperience": 7,
       "numRecipes": 35,
-      "likes": 900
+      "likes": 900,
+      "bio": "Olivia Anderson is a creative chef with a flair for fusion cuisine. With 7 years of experience, she combines her love for different culinary traditions to create dishes that blend flavors and techniques, resulting in exciting and innovative dining experiences."
+
     },
     {
       "id": "9",
@@ -69,7 +84,9 @@
       "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg",
       "yearsOfExperience": 11,
       "numRecipes": 80,
-      "likes": 1600
+      "likes": 1600,
+      "bio": "Alexander Martinez is an experienced chef with a passion for farm-to-table cooking. With 11 years of experience, he is known for his commitment to using locally sourced, seasonal ingredients to create dishes that showcase the natural flavors and freshness of the produce."
+
     },
      {
       "id": "10",
@@ -77,7 +94,9 @@
       "picture": "https://img.freepik.com/free-photo/medium-shot-smiley-woman-cutting-onion_23-2149631681.jpg?size=626&ext=jpg",
       "yearsOfExperience": 4,
       "numRecipes": 20,
-      "likes": 400
+      "likes": 400,
+      "bio": "Isabella Thompson is a young and talented chef with a creative approach to culinary arts. With 4 years of experience, she brings a fresh perspective to the kitchen, constantly experimenting with flavors and textures to create dishes that surprise and delight diners."
+
     }
 ]
   
