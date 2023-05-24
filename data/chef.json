@@ -6,7 +6,34 @@
       "yearsOfExperience": 10,
       "numRecipes": 50,
       "likes": 1000,
-      "bio": "John Doe is a seasoned chef with a passion for creating delicious and innovative dishes. With over 10 years of experience in the culinary world, he has honed his skills in various renowned restaurants and earned accolades for his culinary expertise."
+      "bio": "John Doe is a seasoned chef with a passion for creating delicious and innovative dishes. With over 10 years of experience in the culinary world, he has honed his skills in various renowned restaurants and earned accolades for his culinary expertise.",
+      "recipes": [
+        {
+          "id": "1",
+          "name": "Mansaf",
+          "ingredients": "2 cups cooked chickpeas, 1/4 cup tahini, 2 cloves garlic, 3 tablespoons lemon juice, 1/4 cup olive oil, 1/2 teaspoon ground cumin, salt to taste",
+  
+          "cookingMethod": "1. Cook the lamb in a pot with water until tender. \n2. In a separate bowl, mix yogurt and jameed. \n3. Add the yogurt mixture to the lamb and simmer for 30 minutes. \n4. Serve the Mansaf over a bed of rice, topped with almonds.",
+          "rating": 4.7,
+          "image": "https://example.com/recipe1-image.jpg"
+        },
+        {
+          "id": "1",
+          "name": "Hummus",    "ingredients": "2 cups cooked chickpeas, 1/4 cup tahini, 2 cloves garlic, 3 tablespoons lemon juice, 1/4 cup olive oil, 1/2 teaspoon ground cumin, salt to taste",
+  
+          "cookingMethod": "1. Drain and rinse the chickpeas. \n2. In a food processor, blend the chickpeas, tahini, garlic, and lemon juice until smooth. \n3. Drizzle with olive oil and serve with pita bread or vegetables.",
+          "rating": 4.5,
+          "image": "https://example.com/recipe2-image.jpg"
+        },
+        {
+          "id": "1",
+          "name": "Tabbouleh",
+      "ingredients": "1 cup bulgur wheat, 2 cups finely chopped parsley, 1/2 cup finely chopped mint leaves, 2 tomatoes, diced, 1 cucumber, diced, 1/4 cup lemon juice, 1/4 cup olive oil, salt and pepper to taste",
+      "cookingMethod": "1. Soak the bulgur wheat in water for 30 minutes, then drain.\n2. In a bowl, combine the soaked bulgur wheat, parsley, mint leaves, tomatoes, cucumber, lemon juice, and olive oil.\n3. Season with salt and pepper to taste.\n4. Toss well and refrigerate for an hour before serving.",
+      "rating": 4.5,
+          "image": "https://example.com/recipe3-image.jpg"
+        }
+      ]
 
     },
     {
@@ -16,7 +43,33 @@
       "yearsOfExperience": 15,
       "numRecipes": 100,
       "likes": 2000,
-      "bio": "Jane Smith is a talented chef known for her creative flair and dedication to using locally sourced ingredients. With 15 years of experience, she has curated a diverse repertoire of recipes that showcase her passion for blending unique flavors and textures."
+      "bio": "Jane Smith is a talented chef known for her creative flair and dedication to using locally sourced ingredients. With 15 years of experience, she has curated a diverse repertoire of recipes that showcase her passion for blending unique flavors and textures.",
+      "recipes":[
+        {
+          "id": "2",
+          "name": "Shawarma",
+          "ingredients": "500g boneless chicken or beef, 2 tablespoons olive oil, 2 cloves garlic, minced, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground paprika, 1/2 teaspoon ground turmeric, 1/2 teaspoon ground cinnamon, salt and pepper to taste, pita bread, tahini sauce, and your choice of toppings",
+          "cookingMethod": "1. Marinate the chicken in a mixture of yogurt, garlic, lemon juice, and spices for at least 2 hours. \n2. Grill or roast the marinated chicken until cooked through. \n3. Slice the chicken into thin strips. \n4. Serve the shawarma in pita bread or flatbread with tahini sauce and your choice of vegetables.",
+      "rating": 4.6,
+          "image": "https://example.com/recipe4-image.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Falafel",
+          "ingredients": "1 cup dried chickpeas, 1 small onion, 3 cloves garlic, 1/4 cup fresh parsley, 1/4 cup fresh cilantro, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1/2 teaspoon baking soda, 1 tablespoon all-purpose flour, salt and pepper to taste, vegetable oil for frying",
+          "cookingMethod": "1. Soak the chickpeas in water overnight. \n2. Drain the chickpeas and blend them with onion, garlic, parsley, and spices in a food processor until smooth. \n3. Shape the mixture into small balls or patties. \n4. Deep-fry the falafel until golden brown. \n5. Serve with tahini sauce and pita bread.",
+      "rating": 4.4,       "image": "https://example.com/recipe5-image.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Moutabal (Eggplant Dip)",
+          "ingredients": "2 large eggplants, 2 cloves garlic, 2 tablespoons tahini, 2 tablespoons lemon juice, 2 tablespoons olive oil, salt to taste",
+          "cookingMethod": "1. Preheat the oven to 200°C (400°F).\n2. Prick the eggplants with a fork and place them on a baking sheet. Roast in the oven for about 30-40 minutes until soft and charred.\n3. Remove the eggplants from the oven and let them cool.\n4. Cut the eggplants in half lengthwise and scoop out the flesh into a bowl.\n5. Mash the eggplant flesh with a fork.\n6. Add the minced garlic, tahini, lemon juice, olive oil, and salt to the mashed eggplant. Mix well.\n7. Adjust the seasoning if needed.\n8. Serve the moutabal with a drizzle of olive oil and pita bread.",
+          "rating": 4.4
+      ,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
     },
     {
       "id": "3",
@@ -25,7 +78,35 @@
       "yearsOfExperience": 5,
       "numRecipes": 30,
       "likes": 500,
-      "bio": "David Johnson is a rising star in the culinary world, bringing a fresh perspective to classic dishes. Despite his relatively short 5 years of experience, he has quickly gained recognition for his culinary innovation and commitment to delivering memorable dining experiences."
+      "bio": "David Johnson is a rising star in the culinary world, bringing a fresh perspective to classic dishes. Despite his relatively short 5 years of experience, he has quickly gained recognition for his culinary innovation and commitment to delivering memorable dining experiences.",
+      "recipes":[
+        {
+          "id": "3",
+          "name": "Mansaf",
+          "ingredients": "1kg lamb, 2 cups rice, 2 tablespoons ghee or clarified butter, 2 cups plain yogurt, 1/2 cup toasted almonds, 2 tablespoons chopped fresh parsley, 2 tablespoons chopped fresh mint, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground cardamom, 1 teaspoon ground turmeric, salt and pepper to taste",
+          "cookingMethod": "1. In a large pot, brown the lamb in ghee or clarified butter over medium heat.\n2. Add the ground spices (cumin, coriander, cardamom, turmeric) and season with salt and pepper. Cook for a few minutes.\n3. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the lamb is tender.\n4. In a separate pot, cook the rice according to the package instructions.\n5. Once the lamb is cooked, remove it from the broth and set aside.\n6. In a serving dish, arrange the cooked rice and place the lamb on top.\n7. Pour the yogurt over the lamb and rice.\n8. Garnish with toasted almonds, chopped parsley, and chopped mint.\n9. Serve hot.",
+          "rating": 4.9
+      ,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Kabsa",
+      "ingredients": "1kg chicken or lamb, 2 cups basmati rice, 2 tablespoons ghee or vegetable oil, 2 onions, finely chopped, 4 cloves garlic, minced, 2 tomatoes, diced, 2 tablespoons tomato paste, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground turmeric, 1 teaspoon ground cinnamon, 1 teaspoon ground cardamom, 1 teaspoon ground black pepper, salt to taste, chopped fresh cilantro and mint for garnish",
+      "cookingMethod": "1. In a large pot, heat the ghee or vegetable oil over medium heat.\n2. Add the chopped onions and minced garlic. Sauté until golden brown.\n3. Add the diced tomatoes and tomato paste. Cook for a few minutes until the tomatoes are softened.\n4. Add the ground spices (cumin, coriander, turmeric, cinnamon, cardamom, black pepper) and season with salt. Stir well.\n5. Add the chicken or lamb pieces to the pot and cook until browned.\n6. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the meat is tender.\n7. In a separate pot, cook the basmati rice according to the package instructions.\n8. Once the meat is cooked, remove it from the broth and set aside.\n9. In a serving dish, arrange the cooked rice and place the meat on top.\n10. Garnish with chopped fresh cilantro and mint.\n11. Serve hot.",
+      "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        
+        {
+          "id": "3",
+          "name": "Molokhia",
+      "ingredients": "500g frozen or fresh molokhia leaves, 500g chicken or beef, 2 onions, finely chopped, 4 cloves garlic, minced, 2 tablespoons vegetable oil, 2 tablespoons ground coriander, 2 tablespoons ground cumin, 2 tablespoons lemon juice, salt and pepper to taste, cooked rice for serving",
+      "cookingMethod": "1. In a large pot, heat the vegetable oil over medium heat.\n2. Add the chopped onions and minced garlic. Sauté until golden brown.\n3. Add the chicken or beef and cook until browned.\n4. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the meat is tender.\n5. In a separate pot, blanch the molokhia leaves in boiling water for a few minutes. Drain and set aside.\n6. Once the meat is cooked, remove it from the broth and set aside.\n7. In the same pot, add the blanched molokhia leaves and the cooked meat.\n8. Add the ground coriander, ground cumin, lemon juice, salt, and pepper. Stir well.\n9. Simmer for a few minutes until the flavors are well combined.\n10. Serve the molokhia with cooked rice.",
+      "rating": 4.5,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
 
     },
     {
@@ -35,8 +116,33 @@
       "yearsOfExperience": 8,
       "numRecipes": 70,
       "likes": 1500,
-      "bio": "Emily Brown is a versatile chef with a passion for both savory and sweet creations. With 8 years of experience, she has developed a keen understanding of flavor profiles and loves experimenting with unique ingredient combinations to create memorable culinary masterpieces."
-
+      "bio": "Emily Brown is a versatile chef with a passion for both savory and sweet creations. With 8 years of experience, she has developed a keen understanding of flavor profiles and loves experimenting with unique ingredient combinations to create memorable culinary masterpieces.",
+      "recipes": [
+        {
+          "id": "4",
+          "name": "Mujadara",
+      "ingredients": "1 cup lentils, 1 cup basmati rice, 2 onions, thinly sliced, 4 tablespoons vegetable oil, 1 teaspoon ground cumin, 1 teaspoon ground coriander, salt and pepper to taste",
+      "cookingMethod": "1. In a pot, cook the lentils in water until tender. Drain and set aside.\n2. In a separate pot, cook the basmati rice according to the package instructions.\n3. In a frying pan, heat the vegetable oil over medium heat.\n4. Add the thinly sliced onions and cook until caramelized and crispy.\n5. Remove half of the caramelized onions from the pan and set aside for garnish.\n6. To the remaining onions in the pan, add the cooked lentils and rice.\n7. Season with ground cumin, ground coriander, salt, and pepper.\n8. Stir well to combine all the ingredients.\n9. Serve the mujadara with the reserved caramelized onions on top.",
+      "rating": 4.3,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Lamb Kofta",
+      "ingredients": "500g ground lamb, 1 onion, finely chopped, 3 cloves garlic, minced, 2 tablespoons chopped fresh parsley, 2 tablespoons chopped fresh mint, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground paprika, 1/2 teaspoon ground cinnamon, salt and pepper to taste, skewers for grilling",
+      "cookingMethod": "1. In a bowl, combine the ground lamb, finely chopped onion, minced garlic, chopped parsley, chopped mint, ground cumin, ground coriander, ground paprika, ground cinnamon, salt, and pepper.\n2. Mix well until all the ingredients are evenly incorporated.\n3. Cover the mixture and let it rest in the refrigerator for at least 1 hour to allow the flavors to develop.\n4. Preheat the grill or broiler.\n5. Divide the lamb mixture into small portions and shape them into elongated kofta shapes around skewers.\n6. Grill the lamb kofta skewers until cooked through and slightly charred.\n7. Serve hot with pita bread, tahini sauce, and fresh vegetables.",
+      "rating": 4.6,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Lentil Soup",
+      "ingredients": "1 cup red lentils, 1 onion, finely chopped, 2 cloves garlic, minced, 2 carrots, diced, 2 celery stalks, diced, 4 cups vegetable broth, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1/2 teaspoon ground turmeric, salt and pepper to taste, fresh lemon juice for serving",
+      "cookingMethod": "1. Rinse the red lentils under cold water.\n2. In a large pot, heat some olive oil over medium heat.\n3. Add the chopped onion and minced garlic. Sauté until golden brown.\n4. Add the diced carrots and celery. Cook for a few minutes until slightly softened.\n5. Add the red lentils, vegetable broth, ground cumin, ground coriander, ground turmeric, salt, and pepper.\n6. Bring the soup to a boil, then reduce the heat and simmer until the lentils are cooked and the vegetables are tender.\n7. Use an immersion blender to puree the soup to your desired consistency.\n8. If needed, adjust the seasoning with more salt and pepper.\n9. Serve the lentil soup hot with a squeeze of fresh lemon juice on top.",
+      "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
     },
    {
       "id": "5",
@@ -45,8 +151,33 @@
       "yearsOfExperience": 12,
       "numRecipes": 90,
       "likes": 1800,
-      "bio": "Michael Wilson is a seasoned chef specializing in international cuisine. With 12 years of experience working in renowned kitchens around the world, he has honed his skills in preparing diverse dishes from various culinary traditions, delighting diners with his global flavors."
-
+      "bio": "Michael Wilson is a seasoned chef specializing in international cuisine. With 12 years of experience working in renowned kitchens around the world, he has honed his skills in preparing diverse dishes from various culinary traditions, delighting diners with his global flavors.",
+    "recipes":[
+      {
+        "id": "5",
+        "name": "Fattoush Salad",
+    "ingredients": "2 cups chopped romaine lettuce, 1 cup chopped cucumber, 1 cup diced tomatoes, 1/2 cup chopped radishes, 1/4 cup chopped fresh parsley, 1/4 cup chopped fresh mint, 1/4 cup chopped fresh dill, 1/4 cup chopped green onions, 1/4 cup chopped fresh cilantro, 1 pita bread, toasted and broken into pieces, 2 tablespoons olive oil, 2 tablespoons lemon juice, 1 teaspoon sumac, salt and pepper to taste",
+    "cookingMethod": "1. In a large salad bowl, combine the chopped romaine lettuce, chopped cucumber, diced tomatoes, chopped radishes, chopped fresh parsley, chopped fresh mint, chopped fresh dill, chopped green onions, and chopped fresh cilantro.\n2. Add the toasted and broken pita bread pieces to the salad.\n3. In a small bowl, whisk together the olive oil, lemon juice, sumac, salt, and pepper.\n4. Pour the dressing over the salad and toss well to coat all the ingredients.\n5. Adjust the seasoning if needed.\n6. Serve the fattoush salad immediately.",
+    "rating": 4.5,
+        "image": "https://example.com/recipe6-image.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Baklava",
+        "ingredients": "1 package phyllo dough, 2 cups chopped mixed nuts (such as walnuts, pistachios, and almonds), 1 cup unsalted butter, melted, 1 cup granulated sugar, 1 cup water, 1 tablespoon lemon juice, 1 teaspoon rose water (optional)",
+        "cookingMethod": "1. Preheat the oven to 180°C (350°F).\n2. In a bowl, combine the chopped mixed nuts.\n3. Brush a baking dish with melted butter.\n4. Layer a sheet of phyllo dough in the dish and brush it with melted butter.\n5. Repeat the previous step with several more sheets of phyllo dough.\n6. Sprinkle a layer of the chopped mixed nuts over the buttered phyllo dough.\n7. Repeat the layering process with more phyllo dough and nuts until all the ingredients are used, ending with a layer of phyllo dough on top.\n8. Using a sharp knife, cut the baklava into diamond or square shapes.\n9. Bake in the preheated oven for about 30-40 minutes until golden brown and crispy.\n10. While the baklava is baking, prepare the syrup by combining the granulated sugar, water, lemon juice, and rose water (if using) in a saucepan. Bring to a boil, then reduce the heat and simmer for about 10 minutes until the syrup thickens slightly.\n11. Remove the baked baklava from the oven and immediately pour the syrup over it, ensuring that it is evenly distributed.\n12. Let the baklava cool completely before serving.",
+        "rating": 4.8,
+        "image": "https://example.com/recipe6-image.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Kunafa",
+        "ingredients": "500g shredded kunafa dough, 1 cup unsalted butter, melted, 2 cups ricotta cheese, 1 cup shredded mozzarella cheese, 1 cup simple syrup (made with equal parts sugar and water), 1/4 cup chopped pistachios for garnish",
+        "cookingMethod": "1. Preheat the oven to 180°C (350°F).\n2. In a bowl, combine the ricotta cheese and shredded mozzarella cheese.\n3. Brush a baking dish with melted butter.\n4. Spread half of the shredded kunafa dough in the bottom of the dish and press it down to form an even layer.\n5. Spread the cheese mixture over the kunafa dough.\n6. Cover the cheese mixture with the remaining shredded kunafa dough, pressing it down gently.\n7. Pour the melted butter over the top of the kunafa.\n8. Bake in the preheated oven for about 30-40 minutes until golden brown and crispy.\n9. Remove the baked kunafa from the oven and immediately pour the simple syrup over it, ensuring that it is evenly distributed.\n10. Let the kunafa cool for a few minutes before garnishing with chopped pistachios.\n11. Serve the kunafa warm.",
+        "rating": 4.7,
+        "image": "https://example.com/recipe6-image.jpg"
+      }
+    ]
     },
     {
       "id": "6",
@@ -55,7 +186,33 @@
       "yearsOfExperience": 6,
       "numRecipes": 40,
       "likes": 800,
-      "bio": "Sophia Lee is a passionate chef dedicated to creating healthy and nourishing meals. With 6 years of experience, she focuses on using fresh, organic ingredients to craft dishes that are not only delicious but also promote well-being and support a balanced lifestyle."
+      "bio": "Sophia Lee is a passionate chef dedicated to creating healthy and nourishing meals. With 6 years of experience, she focuses on using fresh, organic ingredients to craft dishes that are not only delicious but also promote well-being and support a balanced lifestyle.",
+      "recipes":[
+        {
+          "id": "6",
+          "name": "Recipe 6",
+          "ingredients": ["ingredient 16", "ingredient 17", "ingredient 18"],
+          "cookingMethod": "1. Step 1\n2. Step 2\n3. Step 3",
+          "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Chicken Machboos",
+          "ingredients": "1kg chicken, 2 cups basmati rice, 2 onions, finely chopped, 4 cloves garlic, minced, 2 tomatoes, diced, 2 tablespoons tomato paste, 2 tablespoons baharat spice mix, 1 teaspoon ground turmeric, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground cinnamon, 1 teaspoon ground cardamom, 1 teaspoon ground black pepper, salt to taste, chopped fresh cilantro and lemon wedges for garnish",
+          "cookingMethod": "1. In a large pot, heat some vegetable oil over medium heat.\n2. Add the chopped onions and minced garlic. Sauté until golden brown.\n3. Add the diced tomatoes and tomato paste. Cook for a few minutes until the tomatoes are softened.\n4. Add the chicken pieces to the pot and cook until browned.\n5. Add the baharat spice mix, ground turmeric, ground cumin, ground coriander, ground cinnamon, ground cardamom, ground black pepper, and salt. Stir well.\n6. Add enough water to cover the chicken. Bring to a boil, then reduce the heat and simmer until the chicken is cooked and tender.\n7. In a separate pot, cook the basmati rice according to the package instructions.\n8. Once the chicken is cooked, remove it from the pot and set aside.\n9. In a serving dish, arrange the cooked rice and place the chicken on top.\n10. Garnish with chopped fresh cilantro and lemon wedges.\n11. Serve hot.",
+          "rating": 4.9,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Shawarma Rice",
+      "ingredients": "2 cups cooked basmati rice, 500g shawarma meat (chicken, beef, or lamb), 2 tablespoons olive oil, 1 onion, finely chopped, 2 cloves garlic, minced, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1/2 teaspoon ground turmeric, 1/2 teaspoon ground paprika, salt and pepper to taste, chopped fresh parsley and lemon wedges for garnish",
+      "cookingMethod": "1. In a large pan, heat the olive oil over medium heat.\n2. Add the chopped onion and minced garlic. Sauté until golden brown.\n3. Add the shawarma meat to the pan and cook until browned.\n4. Add the ground cumin, ground coriander, ground turmeric, ground paprika, salt, and pepper. Stir well.\n5. Add the cooked basmati rice to the pan and toss to coat it with the spices.\n6. Cook for a few minutes until the rice is heated through.\n7. Adjust the seasoning if needed.\n8. Serve the shawarma rice hot, garnished with chopped fresh parsley and lemon wedges.",
+      "rating": 4.5,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
 
     },
    {
@@ -66,6 +223,32 @@
       "numRecipes": 60,
       "likes": 1200,
       "bio": "Daniel Taylor is a chef known for his attention to detail and commitment to culinary excellence. With 9 years of experience, he has developed a refined palate and an ability to elevate simple ingredients to new heights, creating culinary experiences that leave a lasting impression."
+      ,"recipes":[
+        {
+          "id": "7",
+          "name": "Falafel",
+          "ingredients": "2 cups dried chickpeas, soaked overnight, 1 onion, roughly chopped, 4 cloves garlic, minced, 1 cup chopped fresh parsley, 1 cup chopped fresh cilantro, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon baking powder, 1/2 teaspoon cayenne pepper, salt and pepper to taste, vegetable oil for frying",
+          "cookingMethod": "1. Drain and rinse the soaked chickpeas.\n2. In a food processor, combine the chickpeas, chopped onion, minced garlic, chopped fresh parsley, chopped fresh cilantro, ground cumin, ground coriander, baking powder, cayenne pepper, salt, and pepper.\n3. Process the mixture until it forms a coarse paste.\n4. Transfer the falafel mixture to a bowl and refrigerate for at least 1 hour to firm up.\n5. Shape the falafel mixture into small patties or balls.\n6. In a deep frying pan, heat the vegetable oil over medium heat.\n7. Fry the falafel in batches until golden brown and crispy.\n8. Remove the fried falafel from the oil and drain on paper towels.\n9. Serve the falafel hot with tahini sauce, pita bread, and fresh vegetables.",
+          "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Tabbouleh",
+          "ingredients": "1 cup bulgur wheat, soaked in cold water for 1 hour, 2 cups chopped fresh parsley, 1/2 cup chopped fresh mint, 2 tomatoes, diced, 1 cucumber, diced, 1/2 cup finely chopped red onion, 1/4 cup lemon juice, 1/4 cup olive oil, salt and pepper to taste",
+          "cookingMethod": "1. Drain the soaked bulgur wheat and squeeze out any excess water.\n2. In a large bowl, combine the soaked bulgur wheat, chopped fresh parsley, chopped fresh mint, diced tomatoes, diced cucumber, and finely chopped red onion.\n3. In a separate small bowl, whisk together the lemon juice, olive oil, salt, and pepper.\n4. Pour the dressing over the tabbouleh salad and toss well to coat all the ingredients.\n5. Adjust the seasoning if needed.\n6. Let the tabbouleh salad sit for at least 30 minutes to allow the flavors to meld.\n7. Serve the tabbouleh salad chilled or at room temperature.",
+          "rating": 4.6,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Hummus",
+      "ingredients": "2 cups canned chickpeas, drained and rinsed, 1/4 cup tahini, 1/4 cup lemon juice, 2 cloves garlic, minced, 2 tablespoons olive oil, 1/2 teaspoon ground cumin, salt and pepper to taste, paprika and olive oil for garnish",
+      "cookingMethod": "1. In a food processor, combine the canned chickpeas, tahini, lemon juice, minced garlic, olive oil, ground cumin, salt, and pepper.\n2. Process the mixture until smooth and creamy.\n3. If the hummus is too thick, add a little water or additional olive oil to thin it out.\n4. Adjust the seasoning if needed.\n5. Transfer the hummus to a serving dish.\n6. Sprinkle with paprika and drizzle with olive oil.\n7. Serve the hummus with pita bread and fresh vegetables.",
+      "rating": 4.8,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
 
     },
     {
@@ -75,7 +258,34 @@
       "yearsOfExperience": 7,
       "numRecipes": 35,
       "likes": 900,
-      "bio": "Olivia Anderson is a creative chef with a flair for fusion cuisine. With 7 years of experience, she combines her love for different culinary traditions to create dishes that blend flavors and techniques, resulting in exciting and innovative dining experiences."
+      "bio": "Olivia Anderson is a creative chef with a flair for fusion cuisine. With 7 years of experience, she combines her love for different culinary traditions to create dishes that blend flavors and techniques, resulting in exciting and innovative dining experiences.",
+      "recipes":[
+        {
+          "id": "8",
+          "name": "Basbousa",
+          "ingredients": "2 cups semolina, 1 cup desiccated coconut, 1 cup sugar, 1 cup yogurt, 1/2 cup melted butter, 1 teaspoon baking powder, 1/4 cup sliced almonds for garnish, simple syrup (made with equal parts sugar and water) for soaking",
+          "cookingMethod": "1. Preheat the oven to 180°C (350°F).\n2. In a bowl, combine the semolina, desiccated coconut, sugar, yogurt, melted butter, and baking powder.\n3. Mix well until all the ingredients are thoroughly combined.\n4. Pour the mixture into a greased baking dish and spread it evenly.\n5. Sprinkle the sliced almonds on top.\n6. Bake in the preheated oven for about 30-40 minutes until golden brown.\n7. While the basbousa is baking, prepare the simple syrup by combining equal parts sugar and water in a saucepan. Bring to a boil, then reduce the heat and simmer for about 10 minutes until the syrup thickens slightly.\n8. Remove the baked basbousa from the oven and immediately pour the simple syrup over it, ensuring that it is evenly distributed.\n9. Let the basbousa cool completely before cutting it into diamond or square shapes.\n10. Serve the basbousa at room temperature.",
+          "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Hummus",
+      "ingredients": "2 cups cooked chickpeas, 1/4 cup tahini, 2 cloves garlic, 3 tablespoons lemon juice, 1/4 cup olive oil, 1/2 teaspoon ground cumin, salt to taste",
+      "cookingMethod": "1. In a food processor, blend the chickpeas, tahini, garlic, lemon juice, olive oil, cumin, and salt until smooth.\n2. Adjust the seasoning if needed.\n3. Serve with a drizzle of olive oil and sprinkle of paprika.",
+      "rating": 4.8,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Tabbouleh",
+          "ingredients": "1 cup bulgur wheat, 2 cups finely chopped parsley, 1/2 cup finely chopped mint leaves, 2 tomatoes, diced, 1 cucumber, diced, 1/4 cup lemon juice, 1/4 cup olive oil, salt and pepper to taste",
+          "cookingMethod": "1. Soak the bulgur wheat in water for 30 minutes, then drain.\n2. In a bowl, combine the soaked bulgur wheat, parsley, mint leaves, tomatoes, cucumber, lemon juice, and olive oil.\n3. Season with salt and pepper to taste.\n4. Toss well and refrigerate for an hour before serving.",
+          "rating": 4.5
+      ,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
 
     },
     {
@@ -85,8 +295,34 @@
       "yearsOfExperience": 11,
       "numRecipes": 80,
       "likes": 1600,
-      "bio": "Alexander Martinez is an experienced chef with a passion for farm-to-table cooking. With 11 years of experience, he is known for his commitment to using locally sourced, seasonal ingredients to create dishes that showcase the natural flavors and freshness of the produce."
-
+      "bio": "Alexander Martinez is an experienced chef with a passion for farm-to-table cooking. With 11 years of experience, he is known for his commitment to using locally sourced, seasonal ingredients to create dishes that showcase the natural flavors and freshness of the produce.",
+      "recipes":[
+        {
+          "id": "9",
+          "name": "Falafel",
+      "ingredients": "1 cup dried chickpeas, 1 small onion, 3 cloves garlic, 1/4 cup fresh parsley, 1/4 cup fresh cilantro, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1/2 teaspoon baking soda, 1 tablespoon all-purpose flour, salt and pepper to taste, vegetable oil for frying",
+      "cookingMethod": "1. Soak the dried chickpeas in water overnight. Drain well.\n2. In a food processor, blend the chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, baking soda, flour, salt, and pepper until smooth.\n3. Shape the mixture into small balls or patties.\n4. Heat vegetable oil in a frying pan and fry the falafel until golden brown.\n5. Serve with tahini sauce or in pita bread with fresh vegetables.",
+      "rating": 4.7,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Shawarma",
+          "ingredients": "500g boneless chicken or beef, 2 tablespoons olive oil, 2 cloves garlic, minced, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground paprika, 1/2 teaspoon ground turmeric, 1/2 teaspoon ground cinnamon, salt and pepper to taste, pita bread, tahini sauce, and your choice of toppings",
+          "cookingMethod": "1. In a bowl, mix the olive oil, minced garlic, cumin, coriander, paprika, turmeric, cinnamon, salt, and pepper to make a marinade.\n2. Add the chicken or beef to the marinade and coat well. Let it marinate for at least 1 hour or overnight in the refrigerator.\n3. Heat a grill or skillet over medium-high heat and cook the marinated meat until fully cooked and slightly charred.\n4. Slice the cooked meat intostrips.\n5. Warm the pita bread and spread tahini sauce on it.\n6. Fill the pita with the sliced meat and your choice of toppings.\n7. Roll it up and enjoy!",
+          "rating": 4.6,
+          "image": "https://example.com/recipe6-image.jpg"
+        },
+        {
+          "id": "9",
+          "name": "Moutabal (Eggplant Dip)",
+          "ingredients": "2 large eggplants, 2 cloves garlic, 2 tablespoons tahini, 2 tablespoons lemon juice, 2 tablespoons olive oil, salt to taste",
+          "cookingMethod": "1. Preheat the oven to 200°C (400°F).\n2. Prick the eggplants with a fork and place them on a baking sheet. Roast in the oven for about 30-40 minutes until soft and charred.\n3. Remove the eggplants from the oven and let them cool.\n4. Cut the eggplants in half lengthwise and scoop out the flesh into a bowl.\n5. Mash the eggplant flesh with a fork.\n6. Add the minced garlic, tahini, lemon juice, olive oil, and salt to the mashed eggplant. Mix well.\n7. Adjust the seasoning if needed.\n8. Serve the moutabal with a drizzle of olive oil and pita bread.",
+          "rating": 4.4
+      ,
+          "image": "https://example.com/recipe6-image.jpg"
+        }
+      ]
     },
      {
       "id": "10",
@@ -95,7 +331,35 @@
       "yearsOfExperience": 4,
       "numRecipes": 20,
       "likes": 400,
-      "bio": "Isabella Thompson is a young and talented chef with a creative approach to culinary arts. With 4 years of experience, she brings a fresh perspective to the kitchen, constantly experimenting with flavors and textures to create dishes that surprise and delight diners."
+      "bio": "Isabella Thompson is a young and talented chef with a creative approach to culinary arts. With 4 years of experience, she brings a fresh perspective to the kitchen, constantly experimenting with flavors and textures to create dishes that surprise and delight diners.",
+      "recipes":[
+        {
+          "id": "10",
+          "name": "Mansaf",
+          "ingredients": "1kg lamb, 2 cups rice, 2 tablespoons ghee or clarified butter, 2 cups plain yogurt, 1/2 cup toasted almonds, 2 tablespoons chopped fresh parsley, 2 tablespoons chopped fresh mint, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground cardamom, 1 teaspoon ground turmeric, salt and pepper to taste",
+          "cookingMethod": "1. In a large pot, brown the lamb in ghee or clarified butter over medium heat.\n2. Add the ground spices (cumin, coriander, cardamom, turmeric) and season with salt and pepper. Cook for a few minutes.\n3. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the lamb is tender.\n4. In a separate pot, cook the rice according to the package instructions.\n5. Once the lamb is cooked, remove it from the broth and set aside.\n6. In a serving dish, arrange the cooked rice and place the lamb on top.\n7. Pour the yogurt over the lamb and rice.\n8. Garnish with toasted almonds, chopped parsley, and chopped mint.\n9. Serve hot.",
+          "rating": 4.9
+      ,
+          "image": "https://example.com/recipe31-image.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Kabsa",
+          "ingredients": "1kg chicken or lamb, 2 cups basmati rice, 2 tablespoons ghee or vegetable oil, 2 onions, finely chopped, 4 cloves garlic, minced, 2 tomatoes, diced, 2 tablespoons tomato paste, 1 teaspoon ground cumin, 1 teaspoon ground coriander, 1 teaspoon ground turmeric, 1 teaspoon ground cinnamon, 1 teaspoon ground cardamom, 1 teaspoon ground black pepper, salt to taste, chopped fresh cilantro and mint for garnish",
+          "cookingMethod": "1. In a large pot, heat the ghee or vegetable oil over medium heat.\n2. Add the chopped onions and minced garlic. Sauté until golden brown.\n3. Add the diced tomatoes and tomato paste. Cook for a few minutes until the tomatoes are softened.\n4. Add the ground spices (cumin, coriander, turmeric, cinnamon, cardamom, black pepper) and season with salt. Stir well.\n5. Add the chicken or lamb pieces to the pot and cook until browned.\n6. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the meat is tender.\n7. In a separate pot, cook the basmati rice according to the package instructions.\n8. Once the meat is cooked, remove it from the broth and set aside.\n9. In a serving dish, arrange the cooked rice and place the meat on top.\n10. Garnish with chopped fresh cilantro and mint.\n11. Serve hot.",
+          "rating": 4.7,
+          "image": "https://example.com/recipe32-image.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Molokhia",
+      "ingredients": "500g frozen or fresh molokhia leaves, 500g chicken or beef, 2 onions, finely chopped, 4 cloves garlic, minced, 2 tablespoons vegetable oil, 2 tablespoons ground coriander, 2 tablespoons ground cumin, 2 tablespoons lemon juice, salt and pepper to taste, cooked rice for serving",
+      "cookingMethod": "1. In a large pot, heat the vegetable oil over medium heat.\n2. Add the chopped onions and minced garlic. Sauté until golden brown.\n3. Add the chicken or beef and cook until browned.\n4. Add enough water to cover the meat. Bring to a boil, then reduce the heat and simmer until the meat is tender.\n5. In a separate pot, blanch the molokhia leaves in boiling water for a few minutes. Drain and set aside.\n6. Once the meat is cooked, remove it from the broth and set aside.\n7. In the same pot, add the blanched molokhia leaves and the cooked meat.\n8. Add the ground coriander, ground cumin, lemon juice, salt, and pepper. Stir well.\n9. Simmer for a few minutes until the flavors are well combined.\n10. Serve the molokhia with cooked rice.",
+      "rating": 4.5
+  ,
+          "image": "https://example.com/recipe33-image.jpg"
+        }
+      ]
 
     }
 ]
